@@ -1,0 +1,19 @@
+Create Angular 4 app 
+	create components
+		Create
+			go through the categories and place a request / order
+		Read
+			reading the categories and other details
+		Update
+			update placed order before the specific time limit
+		Destroy
+			destroy or cancel a request / order
+
+
+
+create module
+	fetch all the categories
+	display the list 
+    user navigates throug the list
+    select the particular entry
+    
